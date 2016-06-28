@@ -14,6 +14,7 @@
 		C85741441D20580500569A6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C85741421D20580500569A6D /* LaunchScreen.storyboard */; };
 		C857414F1D20580500569A6D /* retro_calculaterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C857414E1D20580500569A6D /* retro_calculaterTests.swift */; };
 		C857415A1D20580500569A6D /* retro_calculaterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C85741591D20580500569A6D /* retro_calculaterUITests.swift */; };
+		C85741681D214ED800569A6D /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = C85741671D214ED800569A6D /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C85741551D20580500569A6D /* retro calculaterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "retro calculaterUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C85741591D20580500569A6D /* retro_calculaterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = retro_calculaterUITests.swift; sourceTree = "<group>"; };
 		C857415B1D20580500569A6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C85741671D214ED800569A6D /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C85741381D20580500569A6D /* retro calculater */ = {
 			isa = PBXGroup;
 			children = (
+				C85741671D214ED800569A6D /* btn.wav */,
 				C85741391D20580500569A6D /* AppDelegate.swift */,
 				C857413B1D20580500569A6D /* ViewController.swift */,
 				C857413D1D20580500569A6D /* Main.storyboard */,
@@ -232,6 +235,7 @@
 				C85741441D20580500569A6D /* LaunchScreen.storyboard in Resources */,
 				C85741411D20580500569A6D /* Assets.xcassets in Resources */,
 				C857413F1D20580500569A6D /* Main.storyboard in Resources */,
+				C85741681D214ED800569A6D /* btn.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
